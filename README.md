@@ -70,3 +70,42 @@ Planned improvements:
 ### 1️⃣ Install Required Libraries
 ```bash
 pip install streamlit google-generativeai python-dotenv
+---
+
+👨‍💻 Author
+
+O Nithin Sai Balaji
+B.Tech – Computer Science Engineering
+Passionate about AI, Data Science & Web Development
+
+---
+
+📫 Connect with me:
+
+🔗 LinkedIn: https://www.linkedin.com/in/o-ns23/
+
+🐙 GitHub: https://github.com/O-NS23
+
+----
+
+🤝 Contributions
+
+Contributions, suggestions, and improvements are welcome!
+To contribute:
+1️⃣ Fork this repository
+2️⃣ Create a new branch
+3️⃣ Make your improvements
+4️⃣ Submit a Pull Request ✨
+
+I appreciate your feedback and collaboration 😊
+
+⭐ Support
+
+If you found this project helpful or inspiring:
+⭐ Star this repository
+📣 Share it with your network
+💬 Leave feedback
+
+Your support motivates me to build more AI projects! 🚀
+
+---
