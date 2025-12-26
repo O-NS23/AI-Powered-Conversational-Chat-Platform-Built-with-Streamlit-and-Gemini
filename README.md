@@ -9,12 +9,12 @@ The app allows users to ask any question and receive smart, meaningful answers i
 ---
 
 ## 🚀 Features
-- ✔️ Ask any question & get instant responses
-- ✔️ Continuous conversation with chat memory
-- ✔️ Simple and user-friendly Streamlit UI
-- ✔️ “End Chat” button to stop conversation
-- ✔️ Works smoothly in Google Colab
-- ✔️ Beginner friendly implementation
+✔️ Ask any question & get instant responses
+✔️ Continuous conversation with chat memory
+✔️ Simple and user-friendly Streamlit UI
+✔️ “End Chat” button to stop conversation
+✔️ Works smoothly in Google Colab
+✔️ Beginner friendly implementation
 
 ---
 
@@ -38,12 +38,12 @@ The app allows users to ask any question and receive smart, meaningful answers i
 
 ## 🧠 Learning Outcomes
 During this project, I learned:
-- 🔹 What LLMs (Large Language Models) are and how they work  
-- 🔹 How to integrate Gemini API in Python  
-- 🔹 How to build web apps using Streamlit  
-- 🔹 Handling chat conversation state in applications  
-- 🔹 Deployment concepts using Colab + Tunnels  
-- 🔹 Debugging API errors and handling responses  
+🔹 What LLMs (Large Language Models) are and how they work  
+🔹 How to integrate Gemini API in Python  
+🔹 How to build web apps using Streamlit  
+🔹 Handling chat conversation state in applications  
+🔹 Deployment concepts using Colab + Tunnels  
+🔹 Debugging API errors and handling responses  
 
 This project helped me gain confidence to work with **AI, APIs, and Web Apps together**.
 
@@ -51,12 +51,12 @@ This project helped me gain confidence to work with **AI, APIs, and Web Apps tog
 
 ## 🔮 Future Enhancements
 Planned improvements:
-- ✨ Better UI with advanced styling
-- ✨ Add conversation history download
-- ✨ Add voice input & speech output
-- ✨ Add dark/light theme support
-- ✨ Deploy permanently on cloud (Render / HuggingFace / Streamlit Cloud)
-- ✨ Support for images & multi-modal inputs
+✨ Better UI with advanced styling
+✨ Add conversation history download
+✨ Add voice input & speech output
+✨ Add dark/light theme support
+✨ Deploy permanently on cloud (Render / HuggingFace / Streamlit Cloud)
+✨ Support for images & multi-modal inputs
 
 ---
 
@@ -67,34 +67,37 @@ Planned improvements:
 pip install streamlit google-generativeai python-dotenv
 ````
 
-##👨‍💻 Author
+---
 
-O Nithin Sai Balaji
-B.Tech – Computer Science Engineering
-Passionate about AI, Data Science & Web Development
+## 👨‍💻 Author   
+O Nithin Sai Balaji   
+B.Tech – Computer Science Engineering   
+Passionate about Artificial Intelligence,Machine Learning, Data Science & Web Development   
 
 ---
 
-##📫 Connect with me:
-🔗 LinkedIn: https://www.linkedin.com/in/o-ns23/
-🐙 GitHub: https://github.com/O-NS23
+## 📫 Connect with me:   
+🔗 LinkedIn: https://www.linkedin.com/in/o-ns23/   
+🐙 GitHub: https://github.com/O-NS23   
 
 ----
 
-##🤝 Contributions
-Contributions, suggestions, and improvements are welcome!
-To contribute:
-1️⃣ Fork this repository
-2️⃣ Create a new branch
-3️⃣ Make your improvements
-4️⃣ Submit a Pull Request ✨
-I appreciate your feedback and collaboration 😊
+## 🤝 Contributions   
+Contributions, suggestions, and improvements are welcome!   
+To contribute:   
+1️⃣ Fork this repository   
+2️⃣ Create a new branch   
+3️⃣ Make your improvements   
+4️⃣ Submit a Pull Request ✨   
+I appreciate your feedback and collaboration 😊   
 
-##⭐ Support
-If you found this project helpful or inspiring:
-⭐ Star this repository
-📣 Share it with your network
-💬 Leave feedback
-Your support motivates me to build more AI projects! 🚀
+---
+
+##⭐ Support   
+If you found this project helpful or inspiring:   
+⭐ Star this repository   
+📣 Share it with your network   
+💬 Leave feedback   
+Your support motivates me to build more AI projects! 🚀   
 
 ---
