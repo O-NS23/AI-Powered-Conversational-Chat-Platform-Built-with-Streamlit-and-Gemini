@@ -1,8 +1,7 @@
-# AI-Powered-Conversational-Chat-Platform-Built-with-Streamlit-and-Gemini
-This project is an AI-powered conversational web application built using Streamlit and Google Gemini. It allows users to ask questions and receive intelligent, real-time answers through an interactive chat interface, supporting continuous conversations until the user ends the session.
+# 🤖 AI Question–Answer Chat App (Streamlit + Google Gemini)   
 
-# 🤖 AI Question–Answer Chat App (Streamlit + Google Gemini)
-
+This project is an AI-powered conversational web application built using Streamlit and Google Gemini. It allows users to ask questions and receive intelligent, real-time answers through an interactive chat interface, supporting continuous conversations until the user ends the session.   
+   
 This is my **first Large Language Model (LLM) project**, where I developed an interactive AI-powered chat application using **Google Gemini** and **Streamlit**.  
 The app allows users to ask any question and receive smart, meaningful answers instantly. It supports **continuous chatting** until the user ends the session, making it feel like a personal AI assistant.
 
