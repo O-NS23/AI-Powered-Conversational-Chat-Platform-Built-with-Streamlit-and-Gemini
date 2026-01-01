@@ -49,13 +49,13 @@ This project helped me gain confidence to work with **AI, APIs, and Web Apps tog
 ---
 
 ## 🔮 Future Enhancements
-Planned improvements:
-✨ Better UI with advanced styling
-✨ Add conversation history download
-✨ Add voice input & speech output
-✨ Add dark/light theme support
-✨ Deploy permanently on cloud (Render / HuggingFace / Streamlit Cloud)
-✨ Support for images & multi-modal inputs
+Planned improvements:   
+✨ Better UI with advanced styling   
+✨ Add conversation history download   
+✨ Add voice input & speech output   
+✨ Add dark/light theme support   
+✨ Deploy permanently on cloud (Render / HuggingFace / Streamlit Cloud)   
+✨ Support for images & multi-modal inputs   
 
 ---
 
