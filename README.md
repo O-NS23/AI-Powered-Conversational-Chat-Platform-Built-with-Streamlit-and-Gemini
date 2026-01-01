@@ -7,13 +7,13 @@ The app allows users to ask any question and receive smart, meaningful answers i
 
 ---
 
-## 🚀 Features
-✔️ Ask any question & get instant responses
-✔️ Continuous conversation with chat memory
-✔️ Simple and user-friendly Streamlit UI
-✔️ “End Chat” button to stop conversation
-✔️ Works smoothly in Google Colab
-✔️ Beginner friendly implementation
+## 🚀 Features   
+✔️ Ask any question & get instant responses   
+✔️ Continuous conversation with chat memory   
+✔️ Simple and user-friendly Streamlit UI   
+✔️ “End Chat” button to stop conversation   
+✔️ Works smoothly in Google Colab   
+✔️ Beginner friendly implementation   
 
 ---
 
